@@ -1,0 +1,20 @@
+body {
+    font: 12px sans-serif;
+}
+#menus {
+    position:absolute;
+    left:40px;
+    bottom:20px;
+    width:300px;
+    z-index:10;
+}
+.float {
+    float: left;
+}
+.menu {
+    width: 90%;
+}
+.label {
+    font: 18px sans-serif;
+    width: 10%;
+}
